@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Win Translator",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}\\win-translator.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "console": "externalTerminal",
+            "preLaunchTask": "Build with MSVC"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+# Build outputs
+*.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Temporary files
+*.tmp
+debug.txt
+settings.txt
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.suo
+
+# MinGW output
+*.o
+*.a
